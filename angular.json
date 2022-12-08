@@ -121,6 +121,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-contacts"
+    }
+  },
+  "defaultProject": "ng-contacts",
+  "cli": {
+    "analytics": false
+  }
 }
